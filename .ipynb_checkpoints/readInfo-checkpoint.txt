@@ -1,0 +1,9 @@
+
+Informasi File
+lokasi dataset final untuk analisis ==> dataset/final-dataset.csv
+install_library.ipynb adalah untuk menginstall library yang kurang dalam pengembangan machine learning
+
+sumber dataset diambil sesuai ulasan dari google maps Rumah Sakit Umum Pusat Prof. dr. I.G.N.G. Ngoerah
+
+scrapping.ipynb ==> untuk scrapping data dari google maps
+notebook.ipynb ==> untuk memproses data

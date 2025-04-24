@@ -1,5 +1,3 @@
-Library yang digunakan
-
 pandas==1.5.3
 numpy==1.24.3
 nltk==3.8.1
@@ -8,12 +6,3 @@ joblib==1.3.2
 scikit-learn==1.3.2
 tensorflow==2.15.0
 selenium==4.16.0
-
-Informasi File
-lokasi dataset final untuk analisis ==> dataset/final-dataset.csv
-install_library.ipynb adalah untuk menginstall library yang kurang dalam pengembangan machine learning
-
-sumber dataset diambil sesuai ulasan dari google maps Rumah Sakit Umum Pusat Prof. dr. I.G.N.G. Ngoerah
-
-scrapping.ipynb ==> untuk scrapping data dari google maps
-notebook.ipynb ==> untuk memproses data
